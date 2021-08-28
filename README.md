@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, this is sunshine.lwt
+- 🔭 PhD student of Zhejiang University
+- 💬 Concat me: liwentong@zju.edu.cn
 
 <!--
 **LiWentomng/LiWentomng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
