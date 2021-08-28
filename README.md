@@ -1,5 +1,5 @@
 ### Hi, this is sunshine.lwt
-- 🔭 PhD student of Zhejiang University
+- 🌱 PhD student of Zhejiang University
 - 💬 Concat me: liwentong@zju.edu.cn
 
 <!--
