@@ -1,6 +1,6 @@
 ### Hi, this is sunshine.lwt
 - 🌱 PhD student of Zhejiang University
-- ⚡ I’m interested in Computer Vision, especially Scene Understanding in Remote Sening Imagery, including Object Detection, Instance Segmentation, Weakly Supervised Learning.
+- ⚡ I’m interested in Computer Vision, especially Scene Understanding in Aerial Images, including Object Detection, Instance Segmentation, Weakly Supervised Learning.
 - 💬 Concat me: liwentong@zju.edu.cn
 <!--
 **LiWentomng/LiWentomng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
