@@ -1,7 +1,7 @@
 ### Hi, this is liwentong
 - 🌱 PhD student of Zhejiang University
 - ⚡ I’m interested in Computer Vision including Object Detection, Weakly Supervised Learning, Instance Segmentation, especially for Aerial Images.
-- 🔭 I’m currently working on the instance segmentation with only box annotations.
+- 🔭 I’m currently working on the box-supervised instance segmentation.
 - 💬 Concat me: liwentong@zju.edu.cn
 <!--
 **LiWentomng/LiWentomng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
