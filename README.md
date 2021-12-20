@@ -1,6 +1,6 @@
 ### Hi, this is liwentong
 - 🌱 PhD student of Zhejiang University
-- ⚡ I’m interested in Computer Vision including Oriented Object Detection, Weakly Supervised Learning, Instance Segmentation.
+- ⚡ I’m interested in Computer Vision including Oriented Object Detection, Weakly Supervised Learning and Instance Segmentation.
 - 🔭 I’m currently working on the box-supervised instance segmentation.
 - 💬 Concat me: liwentong@zju.edu.cn
 <!--
