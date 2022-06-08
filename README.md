@@ -1,5 +1,5 @@
 ### Hi, this is liwentong
-- 🌱 PhD student of Zhejiang University, supervised by Prof. [Jianke Zhu](https://scholar.google.com/citations?user=SC-WmzwAAAAJ&hl=zh-CN&oi=ao) and Prof. [Lei Zhang](https://scholar.google.com/citations?user=tAK5l1IAAAAJ&hl=zh-CN&oi=ao) (PolyU, HK).
+- 🌱 PhD student of Zhejiang University, supervised by Prof. [Jianke Zhu](https://person.zju.edu.cn/jkzhu) and Prof. [Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang/) (PolyU, HK).
 - ⚡ I’m interested in Computer Vision including Object Detection, Instance Segmentation and Weakly-Supervised Learning.
 - 🔭 I’m currently working on the Box-supervised Instance Segmentation.
 - 💬 Concat me: liwentong@zju.edu.cn
