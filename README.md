@@ -1,7 +1,7 @@
 ### Hi, this is liwentong
 - 🌱 PhD student of Zhejiang University, supervised by Prof. [Jianke Zhu](https://person.zju.edu.cn/jkzhu) and Prof. [Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang/) (PolyU, HK).
 - ⚡ I’m interested in Computer Vision including Object Detection, Instance Segmentation and Weakly-Supervised Learning.
-- 🔭 I’m currently working on the Box-supervised Instance Segmentation.
+- 🔭 I’m currently working on the Box/Point-supervised Instance Segmentation.
 - 💬 Concat me: liwentong@zju.edu.cn
 <!--
 **LiWentomng/LiWentomng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
